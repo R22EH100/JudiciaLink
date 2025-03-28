@@ -3,7 +3,6 @@
 
 A modern web platform designed to streamline legal processes, connect legal professionals, and simplify case/document management.  
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=JudiciaLink+Demo) *← Replace with actual screenshot*  
 
 ## ✨ Features  
 - **Case Management**: Organize and track legal cases with timelines  
