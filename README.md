@@ -12,8 +12,8 @@ A modern web platform designed to streamline legal processes, connect legal prof
 - **Analytics Dashboard**: Visualize case statistics and performance metrics  
 
 ## 🛠️ Tech Stack  
-**Frontend**: React.js, Tailwind CSS, Redux  
-**Backend**: Node.js, Express.js  
+**Frontend**: HTML,CSS,JS  
+**Backend**: python flask,ollama  
 **Database**: MongoDB (with Mongoose ODM)  
 **Auth**: JWT & OAuth 2.0  
 **DevOps**: Docker, GitHub Actions (CI/CD)  
